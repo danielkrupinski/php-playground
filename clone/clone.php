@@ -16,4 +16,3 @@ echo "foo->bar = $foo->bar    foo1->bar = $foo1->bar\n";
 $foo2 = clone $foo;
 $foo2->bar = 14;
 echo "foo->bar = $foo->bar    foo1->bar = $foo1->bar    foo2->bar = $foo2->bar";
-?>
