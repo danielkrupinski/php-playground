@@ -5,4 +5,3 @@ print_r($array);
 echo "<pre><br></pre>";
 shuffle($array);
 print_r($array);
-?>
