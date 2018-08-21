@@ -1,3 +1,3 @@
 <?php
-$str = 'This is string to base64_encode()';
+$str = 'This is base64_encoded string';
 echo base64_encode($str);
